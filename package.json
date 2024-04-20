@@ -1,0 +1,10 @@
+{
+  "name": "tea-project",
+  "version": "0.0.1",
+  "description": "",
+  "author": "https://github.com/nguyenthnhloc",
+  "license": "MIT",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+}
