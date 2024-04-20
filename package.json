@@ -5,6 +5,6 @@
   "author": "https://github.com/nguyenthnhloc",
   "license": "MIT",
   "publishConfig": {
-    "registry": "https://github.com/nguyenthnhloc/tea-project"
+    "registry": "https://github.com/nguyenthnhloc/tea-project.git"
   }
 }
