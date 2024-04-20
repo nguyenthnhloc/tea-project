@@ -4,7 +4,8 @@
   "description": "",
   "author": "https://github.com/nguyenthnhloc",
   "license": "MIT",
+  "repository": "https://github.com/nguyenthnhloc/tea-project.git",
   "publishConfig": {
-    "registry": "https://github.com/nguyenthnhloc/tea-project.git"
+    "registry": "https://npm.pkg.github.com"
   }
 }
